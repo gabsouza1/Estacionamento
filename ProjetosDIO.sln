@@ -5,8 +5,6 @@ VisualStudioVersion = 17.8.34309.116
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "GerenciamentoEstacionamento", "GerenciamentoEstacionamento.csproj", "{A9354945-7DCB-4A83-AB31-11FD9DA375D2}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SistemaTelefonico", "..\SistemaTelefonico\SistemaTelefonico.csproj", "{B704CD19-1B95-4ABD-8285-AB1CA4F54400}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,10 +15,6 @@ Global
 		{A9354945-7DCB-4A83-AB31-11FD9DA375D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A9354945-7DCB-4A83-AB31-11FD9DA375D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A9354945-7DCB-4A83-AB31-11FD9DA375D2}.Release|Any CPU.Build.0 = Release|Any CPU
-		{B704CD19-1B95-4ABD-8285-AB1CA4F54400}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{B704CD19-1B95-4ABD-8285-AB1CA4F54400}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{B704CD19-1B95-4ABD-8285-AB1CA4F54400}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{B704CD19-1B95-4ABD-8285-AB1CA4F54400}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
